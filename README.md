@@ -42,7 +42,7 @@ Detects 64% of Dead patients correctly — best for medical use.
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
-   git clone https://github.com/dhanushreen2004-collab/breast-cancer-survival-prediction.git
+   git clone(https://github.com/dhanushreen2004-collab/Breast-cancer-survival-prediction)
 ```
 2. Install dependencies:
 ```bash
