@@ -77,21 +77,7 @@ That's why we prioritized **Recall over Accuracy**.
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-```bash
-git clone https://github.com/dhanushreen2004-collab/breast-cancer-survival-prediction.git
-cd breast-cancer-survival-prediction
-```
-
-2. Install dependencies:
-```bash
-pip install pandas numpy scikit-learn xgboost imbalanced-learn matplotlib seaborn
-```
-
-3. Open the notebook:
-```bash
-jupyter notebook breast-cancer-survival-prediction.ipynb
-```
+Open `breast-cancer-survival-prediction.ipynb` in Jupyter Notebook or Google Colab and run all cells.
 
 ---
 
