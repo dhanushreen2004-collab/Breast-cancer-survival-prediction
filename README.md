@@ -42,7 +42,7 @@ Detects 64% of Dead patients correctly — best for medical use.
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/breast-cancer-survival-prediction.git
+   git clone https://github.com/dhanushreen2004-collab/breast-cancer-survival-prediction.git
 ```
 2. Install dependencies:
 ```bash
@@ -50,14 +50,14 @@ Detects 64% of Dead patients correctly — best for medical use.
 ```
 3. Open the notebook:
 ```bash
-   jupyter notebook breast-cancer_cp2__2_.ipynb
+   jupyter notebook breast-cancer_survival_prdiction.ipynb
 ```
 
 ## 📁 Project Structure
 ```
-├── breast-cancer_cp2__2_.ipynb   # Main ML notebook
+├── breast-cancer_survival_prdiction.ipynb   # Main ML notebook
 ├── Breast_Cancer.csv              # Dataset
-├── Breast_Cancer_Dhanushree_cp2_ppt_1_.pptx  # Presentation
+├── Breast_Cancer_Survival_prediction_ppt.pptx  # Presentation
 └── README.md
 ```
 
